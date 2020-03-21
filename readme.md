@@ -27,6 +27,12 @@ To quote use >
 >this is a quote  
 multiple lines
 
+To create a code block use tripple backtick and new line
+```
+    ```
+    This is a code block
+    ```
+```
 
 ---
 ### Links:
